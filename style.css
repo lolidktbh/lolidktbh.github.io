@@ -1,7 +1,14 @@
-p {
-    color: aqua;
+h1 {
+    text-align: center;
 }
 
 body {
     background-color: bisque;
+}
+
+
+.button {
+    border-radius: 60cm;
+        background-color: azure;
+        padding: 15px;
 }
